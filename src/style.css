@@ -80,6 +80,11 @@ h1 {
   font-size: 27px;
 }
 
+.open-source.link {
+  display: block;
+  margin: 0 auto;
+}
+
 .search {
   background-color: #384a51;
   border: 1px solid black;
