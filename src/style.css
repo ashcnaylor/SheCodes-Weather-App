@@ -81,8 +81,7 @@ h1 {
 }
 
 .open-source.link {
-  display: block;
-  margin: 0 auto;
+  font-size: 8px;
 }
 
 .search {
